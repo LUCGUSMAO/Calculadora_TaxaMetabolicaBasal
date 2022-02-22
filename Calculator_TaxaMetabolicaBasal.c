@@ -11,6 +11,7 @@ int main()
     //Variaveis para calculo tmb
     float valor1, valor2, valor3, tmb;
     
+    //coleta de informacoes necessarias
     printf("Sexo:\n (1) Homem\n (2) Mulher\n");
     scanf("%f", &sexo);
     printf("\nPeso [kg]: ");
